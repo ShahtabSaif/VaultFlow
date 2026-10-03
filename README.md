@@ -8,12 +8,30 @@
 
 Track income and expenses, manage loans and debts, automate recurring bills, and export clean reports, all stored privately on your own device.
 
+[![Download APK](https://img.shields.io/badge/⬇%20Download%20VaultFlow-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ShahtabSaif/VaultFlow/releases/latest)
+ 
 ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)
 ![Min SDK](https://img.shields.io/badge/minSdk-24-blue)
 ![Storage](https://img.shields.io/badge/data-100%25%20on--device-6366f1)
-
+ 
 </div>
 
+---
+
+## 📥 Download
+ 
+<div align="center">
+[![Download APK](https://img.shields.io/badge/Download-Latest%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ShahtabSaif/VaultFlow/releases/latest)
+ 
+Button not loading? Use this link: **https://github.com/ShahtabSaif/VaultFlow/releases/latest**
+ 
+</div>
+1. Tap the button above to open the **latest release**.
+2. Under **Assets**, download the `.apk` file.
+3. Open the downloaded file on your Android phone. If prompted, allow **Install unknown apps** for your browser or file manager.
+4. Launch **VaultFlow** and follow the [first-time setup](#important-first-time-setup) below.
+> Requires **Android 7.0 (API 24)** or higher. Looking for older versions? See all [releases](https://github.com/ShahtabSaif/VaultFlow/releases).
+ 
 ---
 
 ## ⚠️ Important: First-time setup
