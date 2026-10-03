@@ -1,0 +1,6 @@
+{
+  "name": "VaultFlow",
+  "description": "Local-first personal finance, expense & loan tracking application with multi-currency, receipt processing, recurring budgets, and export tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
