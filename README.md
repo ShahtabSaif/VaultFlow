@@ -2,39 +2,45 @@
 
 <img src="app/src/main/assets/ic_vault_minimal.png" alt="VaultFlow logo" width="120" />
 
-# VaultFlow
+<h1>VaultFlow</h1>
 
-**Local-first personal finance, expense & loan tracker for Android.**
+<p><b>Local-first personal finance, expense &amp; loan tracker for Android.</b></p>
 
-Track income and expenses, manage loans and debts, automate recurring bills, and export clean reports, all stored privately on your own device.
+<p>Track income and expenses, manage loans and debts, automate recurring bills, and export clean reports, all stored privately on your own device.</p>
 
-[![Download APK](https://img.shields.io/badge/⬇%20Download%20VaultFlow-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ShahtabSaif/VaultFlow/releases/latest)
- 
-![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)
-![Min SDK](https://img.shields.io/badge/minSdk-24-blue)
-![Storage](https://img.shields.io/badge/data-100%25%20on--device-6366f1)
- 
+<p>
+  <a href="https://github.com/ShahtabSaif/VaultFlow/releases/latest"><img src="https://img.shields.io/badge/Download-VaultFlow%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download VaultFlow APK" /></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white" alt="Platform: Android" />
+  <img src="https://img.shields.io/badge/minSdk-24-blue" alt="Min SDK 24" />
+  <img src="https://img.shields.io/badge/data-100%25%20on--device-6366f1" alt="100% on-device data" />
+</p>
+
 </div>
 
 ---
 
 ## 📥 Download
- 
-<div align="center">
-[![Download APK](https://img.shields.io/badge/Download-Latest%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/ShahtabSaif/VaultFlow/releases/latest)
- 
-Button not loading? Use this link: **https://github.com/ShahtabSaif/VaultFlow/releases/latest**
- 
-</div>
-1. Tap the button above to open the **latest release**.
-2. Under **Assets**, download the `.apk` file.
-3. Open the downloaded file on your Android phone. If prompted, allow **Install unknown apps** for your browser or file manager.
-4. Launch **VaultFlow** and follow the [first-time setup](#important-first-time-setup) below.
-> Requires **Android 7.0 (API 24)** or higher. Looking for older versions? See all [releases](https://github.com/ShahtabSaif/VaultFlow/releases).
- 
+
+<p align="center">
+  <a href="https://github.com/ShahtabSaif/VaultFlow/releases/latest"><img src="https://img.shields.io/badge/Download-Latest%20APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Download latest APK" /></a>
+</p>
+
+
+<ol>
+  <li>Tap the button above to open the <b>latest release</b>.</li>
+  <li>Under <b>Assets</b>, download the <code>.apk</code> file.</li>
+  <li>Open the downloaded file on your Android phone. If prompted, allow <b>Install unknown apps</b> for your browser or file manager.</li>
+  <li>Launch <b>VaultFlow</b> and follow the <a href="#important-first-time-setup">first-time setup</a> below.</li>
+</ol>
+
+<p>Requires <b>Android 7.0 (API 24)</b> or higher. Looking for older versions? See all <a href="https://github.com/ShahtabSaif/VaultFlow/releases">releases</a>.</p>
+
 ---
 
-## ⚠️ Important: First-time setup
+## Important: First-time setup
 
 > **VaultFlow ships with sample demo data (sample transactions, loans and recurring bills) so you can explore the app right away.**
 >
@@ -102,7 +108,7 @@ VaultFlow is an Android app that wraps a self-contained web UI inside a native `
    ```
    Or switch the `debug` build type to the default debug signing config in `app/build.gradle.kts`.
 5. Press **Run ▶** on an emulator or device.
-6. **On first launch, wipe the demo data from Settings** (see [First-time setup](#️-important-first-time-setup)).
+6. **On first launch, wipe the demo data from Settings** (see [First-time setup](#important-first-time-setup)).
 
 
 ---
